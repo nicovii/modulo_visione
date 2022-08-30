@@ -8,7 +8,11 @@
  * pcl_action: pacchetto che elabora i dati ricavati dalla stereo camera.
  
  ## Installazione
- Clonare la repository nella cartella /src di un ambiente catkin e efettuare il comando build di catkin, in questo modo:
+ Clonare la repository nella cartella /src di un ambiente catkin: 
+ ```
+ $ git clone https://github.com/nicovii/modulo_visione.git
+ ```
+  Efettuare il comando build di catkin, in questo modo:
  ```
  $ catkin build
  ```
