@@ -12,7 +12,7 @@
  ```
  $ git clone https://github.com/nicovii/modulo_visione.git
  ```
- Clonare la cartella darknet in /src dal seguente [sito](https://github.com/leggedrobotics/darknet_ros) e utilizzare i file di configurazione e i pesi precedentemente scaricati.
+ Clonare la cartella darknet in /src dal seguente [sito](https://github.com/leggedrobotics/darknet_ros) e utilizzare i file di configurazione e i pesi precedentemente scaricati nella cartella cfg.
  
  Efettuare il comando build di catkin, in questo modo:
  ```
